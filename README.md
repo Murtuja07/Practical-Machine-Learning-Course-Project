@@ -15,5 +15,8 @@ https://d396qusza40orc.cloudfront.net/predmachlearn/pml-testing.csv
 
 The data for this project come from this source: http://groupware.les.inf.puc-rio.br/har.
 
+# Rpubs link for analysis:
+http://rpubs.com/murtuja07/pmlwk4project
+
 # Report
 The goal of this project is to predict the manner in which they did the exercise. This is the "classe" variable in the training set. This report describes how I built your model, how I used cross validation, what I think the expected out of sample error is, and why I made the choices you did. Separately this prediction model was to predict 20 different test cases given by the Practical Machine Learning Course.
